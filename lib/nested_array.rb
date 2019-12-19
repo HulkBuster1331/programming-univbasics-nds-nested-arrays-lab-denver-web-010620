@@ -18,9 +18,9 @@ CONVENTIONAL_PRODUCE = [
 
 def assembled_matrix
  
- fruits_n_stuff= 
+ fruits_n_stuff= {}
   fruits_n_stuff :ORGANIC_PRODUCE, :CONVENTIONAL_PRODUCE
- 
+ fruits_n_stuff
 end
 
 def sorted_matrix
