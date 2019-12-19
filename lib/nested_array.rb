@@ -18,8 +18,8 @@ CONVENTIONAL_PRODUCE = [
 
 def assembled_matrix
  
- assembled_matrix={}
-  assembled_matrix :ORGANIC_PRODUCE, :CONVENTIONAL_PRODUCE
+ fruits_n_stuff= 
+  fruits_n_stuff :ORGANIC_PRODUCE, :CONVENTIONAL_PRODUCE
  
 end
 
