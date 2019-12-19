@@ -20,7 +20,7 @@ def assembled_matrix
  
  assembled_matrix={}
   assembled_matrix[:ORGANIC_PRODUCE, :CONVENTIONAL_PRODUCE}
- assembled_matrix
+ 
 end
 
 def sorted_matrix
