@@ -32,7 +32,7 @@ end
 
 def matrix_lookup(matrix, row, column)
 
- :ORGANIC_PRODUCE[1]
+ fruits_n_stuff[2][2]
  
  
   # Given any matrix (array of arrays), a row index and a column index, 
