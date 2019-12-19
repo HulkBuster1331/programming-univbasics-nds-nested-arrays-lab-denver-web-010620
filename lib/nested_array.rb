@@ -32,7 +32,7 @@ end
 
 def matrix_lookup(matrix, row, column)
 
- fruits_n_stuff[2][2]
+ fruits_n_stuff[0][1]
  
  
   # Given any matrix (array of arrays), a row index and a column index, 
